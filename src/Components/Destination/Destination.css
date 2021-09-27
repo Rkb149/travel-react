@@ -1,0 +1,24 @@
+.date-cost{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.card{
+    height: 450px;
+}
+#bdt{
+    color: rgba(255, 187, 0, 0.911);
+    font-weight: bold;
+    font-size: large;
+}
+.btn-regular{
+    background-color: goldenrod;
+    font-weight: 400px;
+    width: 150px;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 50px;
+    border: 1px solid lightgray;
+
+}
